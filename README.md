@@ -4,8 +4,10 @@ It is used for going around the necessity of opening the battle.net launcher, bu
 
 
 Usages of files:
+	
 	Overwatch auto-login.ahk:
-		Logs you into the overwatch.exe file automatically and also opens it
+		Logs you into the overwatch.exe file automatically and also opens it	
+	
 	Overwatch_107.ico:
 		Icon of the Overwatch.exe file, not needed if you dont want this to be your Icon
 
@@ -34,10 +36,10 @@ Create custom Icon:
 
 
 Debugging:
-
-	Program closes before the log-in screen appears:  edit the LoadTime variable in Overwatch auto-login.ahk to a higher amount (given in milliseconds).
-
-	It doesn't even launch the game:		              make sure you installed overwatch at the default place, if not then edit the
+		
+		Program closes before the log-in screen appears:  edit the LoadTime variable in Overwatch auto-login.ahk to a higher amount (given in milliseconds).
+		
+		It doesn't even launch the game: make sure you installed overwatch at the default place, if not then edit the
 	                                                  folder url in the .ahk to that where the file is located. use the same one
 							                                      for any other folder mentions in this README file (remember the subfolder _retail_)
 
