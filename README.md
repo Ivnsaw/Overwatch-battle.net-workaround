@@ -2,7 +2,7 @@ This is a program made with autohotkey, this version can ONLY be used with AutoH
 It is used for going around the necessity of opening the battle.net launcher, but has only been proven to work as-is with Overwatch
 
 This version also differentiates itself by being the colour version, that means instead of waiting for a specified amount of time, it
-watches the color of a specific pixel and acts upon that.
+watches the color of a specific pixel and acts upon that. (recommended if you only want to use the software for Overwatch)
 
 
 
