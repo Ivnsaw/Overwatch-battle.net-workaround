@@ -1,6 +1,9 @@
 This is a program made with autohotkey, this version can ONLY be used with AutoHotkey installed.
 It is used for going around the necessity of opening the battle.net launcher, but has only been proven to work as-is with Overwatch
 
+This version also differentiates itself by being the time version, that means unlike the colour version it just waits for a specified amount of time
+(recommended if you want to test the software for other games)
+
 
 
 Usages of files:
