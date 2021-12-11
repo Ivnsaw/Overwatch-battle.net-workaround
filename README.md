@@ -1,9 +1,8 @@
 This is a program made with autohotkey, this version can be used without AutoHotkey installed.
 It is used for going around the necessity of opening the battle.net launcher, but has only been proven to work as-is with Overwatch
 
-This version also differentiates itself by being the colour version, that means instead of waiting for a specified amount of time, it
-watches the color of a specific pixel and acts upon that. (recommended if you only want to use the software for Overwatch)
-
+This version also differentiates itself by being the time version, that means unlike the colour version it just waits for a specified amount of time
+(recommended if you want to test the software for other games)
 
 
 Usages of files:
@@ -41,6 +40,8 @@ Create custom Icon:
 
 
 Debbuging:
+		
+	Program closes before the log-in screen appears:  edit the 3rd line in LoginData.txt to a higher amount (given in milliseconds).
 
 If further bugs become known they will appear here in newer versions, or the GitHub page
 	
