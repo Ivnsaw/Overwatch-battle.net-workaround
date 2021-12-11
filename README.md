@@ -14,7 +14,7 @@ Usages of files:
 		Icon of the Overwatch.exe file, not needed if you dont want this to be your Icon
 
 	LoginData.txt:
-		Is read by the .exe file so it knows what to enter into the login screen
+		Is read by the .exe file so it knows what and when to enter into the login screen
 
 
 Setup:
