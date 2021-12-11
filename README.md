@@ -40,11 +40,11 @@ Create custom Icon:
 
 Debugging:
 		
-		Program closes before the log-in screen appears:  edit the LoadTime variable in Overwatch auto-login.ahk to a higher amount (given in milliseconds).
+	Program closes before the log-in screen appears:  edit the LoadTime variable in Overwatch auto-login.ahk to a higher amount (given in milliseconds).
 		
-		It doesn't even launch the game: make sure you installed overwatch at the default place, if not then edit the
-	                                         folder url in the .ahk to that where the file is located. use the same one
-						 for any other folder mentions in this README file (remember the subfolder _retail_)
+	It doesn't even launch the game: make sure you installed overwatch at the default place, if not then edit the
+	                                 folder url in the .ahk to that where the file is located. use the same one
+					 for any other folder mentions in this README file (remember the subfolder _retail_)
 
 If further bugs become known they will appear here in newer versions, or the GitHub page
 	
