@@ -35,7 +35,7 @@ Create custom Icon:
 
 4)	Right-click the shortcut and click on properties, in the Shortcut tab click on Change Icon
 
-5)	Change the folder url to C:\Program Files (x86)\Overwatch\_retail_\FILE.ico (don't forget the quotation marks)
+5)	Change the folder url to C:\Program Files (x86)\Overwatch\_retail_\FILENAME.ico (don't forget the quotation marks)
 
 
 Debugging:
